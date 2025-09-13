@@ -95,8 +95,7 @@ Correct Answers
 Pass if score ≥ 60%, otherwise Fail.
 
 📁 Project Structure
-pgsql
-Copy
+
 
 /User         --> Frontend for exam-taking
 /Models       --> Database models
