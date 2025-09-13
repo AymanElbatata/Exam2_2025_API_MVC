@@ -7,8 +7,10 @@
 <div class="p-5 text-center">
     <h2>Completed Exams</h2>
     <caption>Final Results</caption>
-
-
+    @if (ViewBag.Message != null)
+    {
+        <span class="mt-2 mb-2 text-danger">@ViewBag.Message</span>
+    }
 
 
 @if(Model.Count() > 0){

@@ -12,17 +12,3 @@ D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.DAL\obj\Debug\net9.0\refint\
 D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.DAL\obj\Debug\net9.0\Exam2025.DAL.pdb
 D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.DAL\obj\Debug\net9.0\Exam2025.DAL.genruntimeconfig.cache
 D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.DAL\obj\Debug\net9.0\ref\Exam2025.DAL.dll
-C:\Users\ayman\Desktop\Exam2025.API\Exam2025.DAL\bin\Debug\net9.0\Exam2025.DAL.deps.json
-C:\Users\ayman\Desktop\Exam2025.API\Exam2025.DAL\bin\Debug\net9.0\Exam2025.DAL.runtimeconfig.json
-C:\Users\ayman\Desktop\Exam2025.API\Exam2025.DAL\bin\Debug\net9.0\Exam2025.DAL.dll
-C:\Users\ayman\Desktop\Exam2025.API\Exam2025.DAL\bin\Debug\net9.0\Exam2025.DAL.pdb
-C:\Users\ayman\Desktop\Exam2025.API\Exam2025.DAL\obj\Debug\net9.0\Exam2025.DAL.csproj.AssemblyReference.cache
-C:\Users\ayman\Desktop\Exam2025.API\Exam2025.DAL\obj\Debug\net9.0\Exam2025.DAL.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ayman\Desktop\Exam2025.API\Exam2025.DAL\obj\Debug\net9.0\Exam2025.DAL.AssemblyInfoInputs.cache
-C:\Users\ayman\Desktop\Exam2025.API\Exam2025.DAL\obj\Debug\net9.0\Exam2025.DAL.AssemblyInfo.cs
-C:\Users\ayman\Desktop\Exam2025.API\Exam2025.DAL\obj\Debug\net9.0\Exam2025.DAL.csproj.CoreCompileInputs.cache
-C:\Users\ayman\Desktop\Exam2025.API\Exam2025.DAL\obj\Debug\net9.0\Exam2025.DAL.dll
-C:\Users\ayman\Desktop\Exam2025.API\Exam2025.DAL\obj\Debug\net9.0\refint\Exam2025.DAL.dll
-C:\Users\ayman\Desktop\Exam2025.API\Exam2025.DAL\obj\Debug\net9.0\Exam2025.DAL.pdb
-C:\Users\ayman\Desktop\Exam2025.API\Exam2025.DAL\obj\Debug\net9.0\Exam2025.DAL.genruntimeconfig.cache
-C:\Users\ayman\Desktop\Exam2025.API\Exam2025.DAL\obj\Debug\net9.0\ref\Exam2025.DAL.dll

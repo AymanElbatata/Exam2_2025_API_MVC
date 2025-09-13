@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LbFZTZcCAio=",
+  "dgSpecHash": "HyjtrUCDTT8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ayman\\Desktop\\Exam2025.API\\Exam2025.API\\Exam2025.API.csproj",
+  "projectFilePath": "D:\\AYM Programming\\Prog&Files\\Exam2025.API\\Exam2025.API\\Exam2025.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ayman\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ayman\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

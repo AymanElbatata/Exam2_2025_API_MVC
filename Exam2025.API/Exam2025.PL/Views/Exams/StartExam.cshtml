@@ -15,13 +15,13 @@
                 <span class="badge bg-primary mx-2">Number of Questions: @Model.NumberofQuestions</span>
                 <span class="badge bg-success mx-2">Success Rate: @Model.SuccessRate%</span>
                 <span class="badge bg-warning text-dark mx-2">Duration in minutes: @Model.DurationInnMinutes</span>
-                <span id="countdown" class="badge bg-danger mx-2">Danger Time: 05:00</span>
+                <span id="countdown" class="badge bg-danger mx-2">Danger Time: 00:00</span>
                  <input type="hidden" id="hdnDuration" value="@Model.DurationInnMinutes" />
 
 
             </div>
 
-            <form id="examForm" asp-action="StartExam" method="post">
+            <form id="examForm" asp-controller="Exams" asp-action="SubmitExam" method="post">
                 @Html.AntiForgeryToken()
                 @Html.ValidationSummary(true, "", new { @class = "alert alert-danger" })
 

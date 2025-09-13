@@ -25,8 +25,11 @@ namespace Exam2025.PL.Controllers
             _httpClient = httpClient;
             _httpClient.BaseAddress = new Uri(_configuration["APISettings:BaseApiUrl"]);
         }
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string? message = null)
         {
+            if (!string.IsNullOrEmpty(message))
+                ViewBag.Message = message;
+
             AddTokenToheader();
             var response = await _httpClient.GetAsync("User/GetAllMarksforCurrentUser");
             if (response.IsSuccessStatusCode)

@@ -4,7 +4,7 @@
         "Body": "First Exam",
         "NumberofQuestions": 3,
         "SuccessRate": 60,
-        "DurationInMinutes": 3,
+        "DurationInMinutes": 1,
         "IsPublished": true
     },
     {
@@ -12,13 +12,13 @@
         "Body": "Second Exam",
         "NumberofQuestions": 4,
         "SuccessRate": 60,
-        "DurationInMinutes": 4,
+        "DurationInMinutes": 2,
         "IsPublished": true
     },
     {
         "Name": "Exam 3",
         "Body": "Third Exam",
-        "NumberofQuestions": 5,
+        "NumberofQuestions": 3,
         "SuccessRate": 60,
         "DurationInMinutes": 5,
         "IsPublished": true
@@ -28,7 +28,7 @@
         "Body": "Fourth Exam",
         "NumberofQuestions": 6,
         "SuccessRate": 60,
-        "DurationInMinutes": 6,
+        "DurationInMinutes": 4,
         "IsPublished": true
     }
 ] 

@@ -59,13 +59,38 @@ namespace Exam2025.DAL.Contexts
                         LockoutEnabled = false,
                         PhoneNumber = "201202025251"
                     };
-
+                    //var user3 = new AppUser
+                    //{
+                    //    NormalizedUserName = "NoraAli".ToUpper(),
+                    //    Email = "NoraAli@yahoo.com",
+                    //    UserName = "Nora.Ali",
+                    //    FirstName = "Nora",
+                    //    LastName = "Ali",
+                    //    IsActivated = true,
+                    //    LockoutEnabled = false,
+                    //    PhoneNumber = "201284878483"
+                    //};
+                    //var user4 = new AppUser
+                    //{
+                    //    NormalizedUserName = "SamiaAdel".ToUpper(),
+                    //    Email = "SamiaAdel@yahoo.com",
+                    //    UserName = "Samia.Adel",
+                    //    FirstName = "Samia",
+                    //    LastName = "Adel",
+                    //    IsActivated = false,
+                    //    LockoutEnabled = false,
+                    //    PhoneNumber = "201114770520"
+                    //};
 
                     await userManager.CreateAsync(user1, "Aym@9841");
                     await userManager.CreateAsync(user2, "Aym@9841");
+                    //await userManager.CreateAsync(user3, "Aym@9841");
+                    //await userManager.CreateAsync(user4, "Aym@9841");
 
                     await userManager.AddToRoleAsync(user1, "Admin");
                     await userManager.AddToRoleAsync(user2, "User");
+                    //await userManager.AddToRoleAsync(user3, "User");
+                    //await userManager.AddToRoleAsync(user4, "User");
                     await context.SaveChangesAsync();
 
 

@@ -10,6 +10,8 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
+using System.Text.Json;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Exam2025.API.Controllers
 {
@@ -89,11 +91,13 @@ namespace Exam2025.API.Controllers
         }
 
 
-        [HttpPost("SubmitUserTest")]
-        public async Task<ActionResult<ReturnValueDTO>> SubmitUserTest(ExamSubmissionModel model)
+        [HttpPost("SubmitCurrentUserTest")]
+        public async Task<ActionResult<string>> SubmitCurrentUserTest([FromBody] /*ExamSubmissionModel model*/ string jsonModel)
         {
             try
             {
+                var model = JsonSerializer.Deserialize<ExamSubmissionModel>(jsonModel);
+
                 var UserExamDetailsTBLList = new List<UserExamDetailTBL>();
 
                 var Exam = unitOfWork.ExamTBLRepository.GetById(model.ExamTBLId);
@@ -132,7 +136,7 @@ namespace Exam2025.API.Controllers
             }
             catch (Exception ex)
             {
-                return BadRequest(ex.Message);
+                return Unauthorized(ex.Message);
             }
 
         }

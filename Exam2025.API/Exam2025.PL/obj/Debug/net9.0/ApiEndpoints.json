@@ -113,21 +113,21 @@
   },
   {
     "ContainingType": "Exam2025.API.Controllers.ExamsController",
-    "Method": "SubmitUserTest",
-    "RelativePath": "api47c302a9db0a484ba9a838ec6e79/Exams/SubmitUserTest",
+    "Method": "SubmitCurrentUserTest",
+    "RelativePath": "api47c302a9db0a484ba9a838ec6e79/Exams/SubmitCurrentUserTest",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "model",
-        "Type": "Exam2025.API.Models.ExamSubmissionModel",
+        "Name": "jsonModel",
+        "Type": "System.String",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "Exam2025.API.DTO.ReturnValueDTO",
+        "Type": "System.String",
         "MediaTypes": [
           "text/plain",
           "application/json",

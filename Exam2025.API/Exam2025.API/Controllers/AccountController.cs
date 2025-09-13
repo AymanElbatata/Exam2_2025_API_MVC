@@ -147,7 +147,7 @@ namespace Exam2025.API.Controllers
             }
             catch (Exception ex)
             {
-                return BadRequest(ex.Message);
+                return Unauthorized(ex.Message);
             }
 
         }

@@ -8,6 +8,8 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Net.Http.Headers;
 using System.Security.Claims;
+using System.Text;
+using System.Text.Json;
 
 namespace Exam2025.PL.Controllers
 {
@@ -62,13 +64,15 @@ namespace Exam2025.PL.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> StartExam(ExamSubmissionModel model)
+        public async Task<IActionResult> SubmitExam(ExamSubmissionModel model)
         {
             if (model == null)
                 return BadRequest();
 
+            var jsonString = JsonSerializer.Serialize(model);
+
             AddTokenToheader();
-            var response = await _httpClient.PostAsJsonAsync("Exams/SubmitUserTest", model);
+            var response = await _httpClient.PostAsJsonAsync("Exams/SubmitCurrentUserTest", jsonString);
             if (response.IsSuccessStatusCode)
             {
                 var responseContent = await response.Content.ReadAsStringAsync();
@@ -77,7 +81,7 @@ namespace Exam2025.PL.Controllers
                     return RedirectToAction("Index", "User");
                 }
             }
-            return View(model);
+            return RedirectToAction("Index", "User", new { message = "Error in latest Exam!"});
         }
 
 
