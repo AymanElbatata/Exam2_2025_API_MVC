@@ -1,0 +1,546 @@
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Exam2025.PL.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\System.Text.Json.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\Exam2025.PL.csproj.AssemblyReference.cache
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\Exam2025.PL.GeneratedMSBuildEditorConfig.editorconfig
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\Exam2025.PL.AssemblyInfoInputs.cache
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\Exam2025.PL.AssemblyInfo.cs
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\Exam2025.PL.csproj.CoreCompileInputs.cache
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\Exam2025.PL.MvcApplicationPartsAssemblyInfo.cache
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\Exam2025.PL.RazorAssemblyInfo.cache
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\Exam2025.PL.RazorAssemblyInfo.cs
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Exam2025.API.deps.json
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Exam2025.API.runtimeconfig.json
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Exam2025.API.staticwebassets.endpoints.json
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Exam2025.API.exe
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\appsettings.Development.json
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\appsettings.json
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Exam2025.PL.staticwebassets.runtime.json
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Exam2025.PL.staticwebassets.endpoints.json
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Exam2025.PL.exe
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Exam2025.PL.deps.json
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Exam2025.PL.runtimeconfig.json
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Exam2025.PL.pdb
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\AutoMapper.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Azure.Core.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Azure.Identity.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Azure.Security.KeyVault.Certificates.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Azure.Security.KeyVault.Secrets.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Castle.Core.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Humanizer.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Identity.Abstractions.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Identity.Web.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Identity.Web.Certificate.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Identity.Web.Certificateless.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Identity.Web.Diagnostics.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Identity.Web.TokenAcquisition.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Identity.Web.TokenCache.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.IdentityModel.LoggingExtensions.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.IdentityModel.Validators.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\System.ClientModel.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\System.CodeDom.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\System.Memory.Data.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Exam2025.API.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Exam2025.BLL.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Exam2025.DAL.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Exam2025.API.pdb
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Exam2025.BLL.pdb
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Exam2025.DAL.pdb
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\scopedcss\bundle\Exam2025.PL.styles.css
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\scopedcss\projectbundle\Exam2025.PL.bundle.scp.css
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\v8rxsziapv-aqafosesjg.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\30isbz1qtq-61n19gt1b8.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\1e3r6llgne-xtxxf3hu2r.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\s4kj36gjx9-bqjiyaj88i.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\drcc88bkal-c2jlpeoesf.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\8nie7x3neq-erw9l3u2r3.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\ou8ldzgvup-aexeepp0ev.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\526nt36tcb-d7shbmvgxk.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\gjaf23gt6p-ausgxo2sd3.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\ngvxkymvot-k8d9w2qqmf.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\a695w113e4-cosvhxvwiu.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\phbb7ty4hm-ub07r2b239.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\z5xv4ilz62-fvhpjtyr6v.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\krc2wzum1b-b7pk76d08c.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\uvwhpw8c2j-fsbi9cje9m.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\uoqzteik66-rzd6atqjts.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\x9k70c180u-ee0r1s7dh0.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\aurtx2jtcs-dxx9fxp4il.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\pjyqfgvo27-jd9uben2k1.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\isk2yeko88-khv3u5hwcm.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\xrnevooqf5-r4e9w2rdcm.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\rsa8lztyl0-lcd1t2u6c8.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\atsxsipbns-c2oey78nd0.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\z7foad0j60-tdbxkamptv.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\1s1s6l4guu-j5mq2jizvt.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\avcaaitjri-06098lyss8.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\rdt7vtsws9-nvvlpmu67g.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\0loe2zt7u9-s35ty4nyc5.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\cvicfe22nl-pj5nd1wqec.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\kmyy6tf5w0-46ein0sx1k.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\u8x4au47uc-v0zj4ognzu.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\j28oiwblj7-37tfw0ft22.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\zgzorgkq3t-hrwsygsryq.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\h0h4pxv1xm-pk9g2wxc8p.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\hv65a25hfr-ft3s53vfgj.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\kv6q75e95f-6cfz1n2cew.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\qfmp1kzfbf-6pdc2jztkx.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\o1935jyuxm-493y06b0oq.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\attfmvrrvn-iovd86k7lj.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\cdggley4od-vr1egmr9el.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\k8n1r6h34i-kbrnm935zg.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\zx50ij8ijh-jj8uyg4cgr.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\4t7kgdvq6d-y7v9cxd14o.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\ezmk83q8s0-notf2xhcfb.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\2glk4lo846-h1s4sie4z3.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\g1uwkqmufc-63fj8s7r0e.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\zpr0iz0v3o-0j3bgjxly4.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\jyv2clk49i-47otxtyo56.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\v00gjxb55x-4v8eqarkd7.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\n53hfnx2xr-356vix0kms.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\c7ts1uj8i7-83jwlth58m.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\qmrv3k0er9-mrlpezrjn3.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\ajwtrvittc-lzl9nlhx6b.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\kaeekra5y9-ag7o75518u.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\7bqd9v373s-x0q3zqp4vz.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\t7z3mraf3v-0i3buxo5is.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\02k0alxap6-o1o13a6vjx.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\i2jtjwyelx-ttgo8qnofa.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\6g2z2giz93-2z0ns9nrw6.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\s95vobgy9z-muycvpuwrr.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\atwrv5o5mr-87fc7y1x7t.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\agktr6420s-mlv21k5csn.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\wckrd7pkui-q0ygtx8rrs.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\ru2av7hnmx-q0ygtx8rrs.gz
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\staticwebassets.build.json
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\staticwebassets.development.json
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\Exam2025.772A0C8B.Up2Date
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\Exam2025.PL.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\refint\Exam2025.PL.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\Exam2025.PL.pdb
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\Exam2025.PL.genruntimeconfig.cache
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\ref\Exam2025.PL.dll
+D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\Exam2025.PL.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Exam2025.API.staticwebassets.endpoints.json
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\appsettings.json
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Exam2025.PL.staticwebassets.endpoints.json
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Exam2025.API.deps.json
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Exam2025.API.runtimeconfig.json
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Exam2025.API.exe
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Exam2025.PL.staticwebassets.runtime.json
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Exam2025.PL.exe
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Exam2025.PL.deps.json
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Exam2025.PL.runtimeconfig.json
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Exam2025.PL.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Exam2025.PL.pdb
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Castle.Core.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Humanizer.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Identity.Abstractions.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Identity.Web.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Identity.Web.Certificate.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Identity.Web.Certificateless.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Identity.Web.Diagnostics.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Identity.Web.TokenAcquisition.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Identity.Web.TokenCache.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.IdentityModel.LoggingExtensions.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.IdentityModel.Validators.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Exam2025.API.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Exam2025.BLL.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Exam2025.DAL.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Exam2025.API.pdb
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Exam2025.BLL.pdb
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\bin\Debug\net9.0\Exam2025.DAL.pdb
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\Exam2025.PL.csproj.AssemblyReference.cache
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\Exam2025.PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\Exam2025.PL.AssemblyInfoInputs.cache
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\Exam2025.PL.AssemblyInfo.cs
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\Exam2025.PL.csproj.CoreCompileInputs.cache
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\Exam2025.PL.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\Exam2025.PL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\Exam2025.PL.RazorAssemblyInfo.cache
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\Exam2025.PL.RazorAssemblyInfo.cs
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\scopedcss\bundle\Exam2025.PL.styles.css
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\scopedcss\projectbundle\Exam2025.PL.bundle.scp.css
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\v8rxsziapv-aqafosesjg.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\30isbz1qtq-61n19gt1b8.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\1e3r6llgne-xtxxf3hu2r.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\s4kj36gjx9-bqjiyaj88i.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\drcc88bkal-c2jlpeoesf.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\8nie7x3neq-erw9l3u2r3.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\ou8ldzgvup-aexeepp0ev.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\526nt36tcb-d7shbmvgxk.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\gjaf23gt6p-ausgxo2sd3.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\ngvxkymvot-k8d9w2qqmf.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\a695w113e4-cosvhxvwiu.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\phbb7ty4hm-ub07r2b239.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\z5xv4ilz62-fvhpjtyr6v.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\krc2wzum1b-b7pk76d08c.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\uvwhpw8c2j-fsbi9cje9m.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\uoqzteik66-rzd6atqjts.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\x9k70c180u-ee0r1s7dh0.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\aurtx2jtcs-dxx9fxp4il.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\pjyqfgvo27-jd9uben2k1.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\isk2yeko88-khv3u5hwcm.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\xrnevooqf5-r4e9w2rdcm.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\rsa8lztyl0-lcd1t2u6c8.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\atsxsipbns-c2oey78nd0.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\z7foad0j60-tdbxkamptv.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\1s1s6l4guu-j5mq2jizvt.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\avcaaitjri-06098lyss8.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\rdt7vtsws9-nvvlpmu67g.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\0loe2zt7u9-s35ty4nyc5.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\cvicfe22nl-pj5nd1wqec.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\kmyy6tf5w0-46ein0sx1k.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\u8x4au47uc-v0zj4ognzu.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\j28oiwblj7-37tfw0ft22.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\zgzorgkq3t-hrwsygsryq.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\h0h4pxv1xm-pk9g2wxc8p.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\hv65a25hfr-ft3s53vfgj.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\kv6q75e95f-6cfz1n2cew.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\qfmp1kzfbf-6pdc2jztkx.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\o1935jyuxm-493y06b0oq.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\attfmvrrvn-iovd86k7lj.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\cdggley4od-vr1egmr9el.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\k8n1r6h34i-kbrnm935zg.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\zx50ij8ijh-jj8uyg4cgr.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\4t7kgdvq6d-y7v9cxd14o.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\ezmk83q8s0-notf2xhcfb.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\2glk4lo846-h1s4sie4z3.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\g1uwkqmufc-63fj8s7r0e.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\zpr0iz0v3o-0j3bgjxly4.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\jyv2clk49i-47otxtyo56.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\v00gjxb55x-4v8eqarkd7.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\n53hfnx2xr-356vix0kms.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\c7ts1uj8i7-83jwlth58m.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\qmrv3k0er9-mrlpezrjn3.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\ajwtrvittc-lzl9nlhx6b.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\kaeekra5y9-ag7o75518u.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\7bqd9v373s-x0q3zqp4vz.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\t7z3mraf3v-0i3buxo5is.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\02k0alxap6-o1o13a6vjx.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\i2jtjwyelx-ttgo8qnofa.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\6g2z2giz93-2z0ns9nrw6.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\s95vobgy9z-muycvpuwrr.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\atwrv5o5mr-87fc7y1x7t.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\agktr6420s-mlv21k5csn.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\wckrd7pkui-q0ygtx8rrs.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\compressed\ru2av7hnmx-q0ygtx8rrs.gz
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\Exam2025.772A0C8B.Up2Date
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\Exam2025.PL.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\refint\Exam2025.PL.dll
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\Exam2025.PL.pdb
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\Exam2025.PL.genruntimeconfig.cache
+C:\Users\ayman\Desktop\Exam2025.API\Exam2025.PL\obj\Debug\net9.0\ref\Exam2025.PL.dll

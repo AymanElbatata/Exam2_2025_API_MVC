@@ -1,0 +1,39 @@
+body {
+    background-color: #fff;
+    color: #111;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar {
+    background-color: #111;
+}
+
+.navbar-brand, .nav-link, .dropdown-item {
+    color: #fff !important;
+}
+
+    .nav-link:hover, .dropdown-item:hover {
+        color: #FFD60A !important;
+    }
+
+.btn-custom {
+    background-color: #FFD60A;
+    color: #111;
+    font-weight: 600;
+    border: none;
+    transition: all 0.3s ease-in-out;
+}
+
+    .btn-custom:hover {
+        background-color: #ffc107;
+        color: #000;
+    }
+
+footer {
+    background-color: #111;
+    color: #fff;
+}
+
+    footer small {
+        color: #bbb;
+    }

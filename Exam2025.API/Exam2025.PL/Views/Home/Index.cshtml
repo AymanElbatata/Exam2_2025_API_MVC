@@ -1,0 +1,128 @@
+﻿
+@{
+    ViewData["Title"] = "Home";
+}
+
+<main class="bg-light min-vh-100">
+    <div class="container py-5">
+
+        <!-- Carousel -->
+        <div id="examCarousel" class="carousel slide mb-5" data-bs-ride="carousel">
+            <div class="carousel-inner rounded-4 shadow-sm">
+                <div class="carousel-item active">
+                    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.SR2DYU4zp4Cpb2gN_g9ZyQHaEK%3Fpid%3DApi&f=1&ipt=c4f172e9c90c2a442e94d1bac9e4130c5bd0cc951c025da526b66014ebcc4aee&ipo=images" class="d-block w-100" alt="Exam 1">
+                </div>
+                <div class="carousel-item">
+                    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIF.0jwjDSbit6EmJZTwaUlNRQ%3Fpid%3DApi&f=1&ipt=7ed850dbe31a6f83cf008b1d7e871544357f674a62c632a42343c322d4f8cc95" class="d-block w-100" alt="Exam 2">
+                </div>
+                <div class="carousel-item">
+                    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftamilmadal.com%2Fwp-content%2Fuploads%2F2021%2F09%2Fonline-Mock-test-1024x576.jpg&f=1&nofb=1&ipt=8049f09987c570cd05dc3091ad2532199595716a76b1b8e11c5df6aeee29162e" class="d-block w-100" alt="Exam 3">
+
+                </div>
+                <div class="carousel-item">
+                    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.tLYH4Q1jLM2vC0ytXXc0IAHaE8%3Fpid%3DApi&f=1&ipt=9ff4f3315ff0b96ef41739e6a15c5f355b9ce7d971a121d145d049a31097172e&ipo=images" class="d-block w-100" alt="Exam 4">
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#examCarousel" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#examCarousel" data-bs-slide="next">
+                <span class="carousel-control-next-icon"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+
+        <!-- Welcome Section -->
+        <div class="row align-items-center mb-5">
+            <div class="col-lg-6 text-center text-lg-start">
+                <h1 class="display-4 fw-bold text-dark mb-3">Welcome to Online Exams Platform</h1>
+                <p class="lead text-secondary mb-4">
+                    Take exams securely and track your progress anytime, anywhere. Experience smart online learning today.
+                </p>
+                <div class="d-flex gap-3 justify-content-center justify-content-lg-start">
+                    <a asp-controller="Account" asp-action="Register" class="btn btn-warning btn-lg rounded-pill px-4">
+                        Register Now
+                    </a>
+                    <a asp-controller="Account" asp-action="Login" class="btn btn-dark btn-lg rounded-pill px-4">
+                        Sign In
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-6 text-center mt-4 mt-lg-0">
+                <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fonline.anyflip.com%2Fudanp%2Faccountlogo.png&f=1&nofb=1&ipt=52b09d003de13e01d192c7c842f46e21a8349bb3bfbb94bd608f81b33a9a887d" class="img-fluid" alt="Online Exams">
+            </div>
+        </div>
+
+        <!-- Features -->
+        <div class="row text-center">
+            <div class="col-md-4 mb-4">
+                <div class="card shadow-sm border-0 h-100">
+                    <div class="card-body">
+                        <h5 class="card-title fw-bold">Secure Exams</h5>
+                        <p class="card-text text-secondary">Exams are conducted with full security and integrity.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card shadow-sm border-0 h-100">
+                    <div class="card-body">
+                        <h5 class="card-title fw-bold">Instant Results</h5>
+                        <p class="card-text text-secondary">Receive your scores immediately after submission.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card shadow-sm border-0 h-100">
+                    <div class="card-body">
+                        <h5 class="card-title fw-bold">Track Progress</h5>
+                        <p class="card-text text-secondary">Monitor your improvement with detailed reports.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</main>
+
+<style>
+    main {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .carousel-inner img {
+        height: 400px;
+        object-fit: cover;
+    }
+
+    .card-title {
+        color: #333;
+    }
+
+    .btn-warning {
+        background-color: #ffc107;
+        border: none;
+    }
+
+    .btn-dark {
+        background-color: #212529;
+        border: none;
+        color: #fff;
+    }
+
+    .lead {
+        font-size: 1.1rem;
+    }
+
+    .card {
+        border-radius: 15px;
+    }
+</style>
+
+<script>
+    var carouselElement = document.querySelector('#examCarousel');
+    var carousel = new bootstrap.Carousel(carouselElement, {
+        interval: 2000,
+        ride: 'carousel'
+    });
+</script>

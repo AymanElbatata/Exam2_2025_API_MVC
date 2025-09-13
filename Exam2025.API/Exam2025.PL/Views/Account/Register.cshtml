@@ -1,0 +1,99 @@
+﻿@model Exam2025.API.DTO.RegisterDTO
+
+@{
+    ViewData["Title"] = "Register";
+}
+
+<main class="d-flex align-items-center min-vh-100 bg-light">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-5 col-md-7">
+
+                <div class="card shadow-lg rounded-4 border-0">
+                    <div class="card-body p-5">
+
+                        <h2 class="text-center mb-3 fw-bold text-dark">Create Account</h2>
+                        <p class="text-center text-muted mb-4">Register to get access to your dashboard</p>
+
+                        @if (ViewBag.Message != null)
+                        {
+                            <div class="alert alert-success text-center">@ViewBag.Message</div>
+                        }
+                        @if (TempData["Error"] != null)
+                        {
+                            <div class="alert alert-danger text-center">@TempData["Error"]</div>
+                        }
+
+                        <form asp-action="Register" asp-controller="Account" method="post" novalidate>
+                            @Html.AntiForgeryToken()
+                            @Html.ValidationSummary(true, "", new { @class = "alert alert-danger" })
+
+                            <div class="form-floating mb-3">
+                                <input id="Email" asp-for="Email" class="form-control" placeholder="Email address" required>
+                                <label asp-for="Email">Email address</label>
+                                @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+                            </div>
+
+                            <div class="form-floating mb-3">
+                                <input id="Password" asp-for="Password" value="Aym@9841" class="form-control" type="password" placeholder="Password" required>
+                                <label asp-for="Password">Password</label>
+                                @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                            </div>
+
+                            <div class="form-floating mb-3">
+                                <input id="ConfirmPassword" asp-for="ConfirmPassword" value="Aym@9841" class="form-control" type="password" placeholder="Confirm Password" required>
+                                <label asp-for="ConfirmPassword">Confirm Password</label>
+                                @Html.ValidationMessageFor(m => m.ConfirmPassword, "", new { @class = "text-danger" })
+                            </div>
+
+                            <div class="form-floating mb-3">
+                                <input id="FirstName" asp-for="FirstName" class="form-control" placeholder="First Name" required>
+                                <label asp-for="FirstName">First Name</label>
+                                @Html.ValidationMessageFor(m => m.FirstName, "", new { @class = "text-danger" })
+                            </div>
+
+                            <div class="form-floating mb-3">
+                                <input id="LastName" asp-for="LastName" class="form-control" placeholder="Last Name" required>
+                                <label asp-for="LastName">Last Name</label>
+                                @Html.ValidationMessageFor(m => m.LastName, "", new { @class = "text-danger" })
+                            </div>
+
+                            <button type="submit" class="btn w-100 py-2 rounded-pill text-dark fw-bold"
+                                    style="background-color: #FFD700; border: none;">
+                                Register
+                            </button>
+
+                            <div class="text-center mt-3">
+                                <a asp-controller="Account" asp-action="Login" class="text-decoration-none text-dark">
+                                    Already have an account? <strong class="text-warning">Sign in</strong>
+                                </a>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</main>
+
+<style>
+    body {
+        background: linear-gradient(135deg, #f7f9fc 0%, #ffffff 100%);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .card {
+        background: #fff;
+    }
+
+    .form-control:focus {
+        border-color: #FFD700;
+        box-shadow: 0 0 0 0.2rem rgba(255, 215, 0, 0.25);
+    }
+
+    .btn:hover {
+        background-color: #FFC107 !important;
+    }
+</style>
+
