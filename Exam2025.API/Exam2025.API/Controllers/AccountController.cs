@@ -1,5 +1,4 @@
 ﻿using AutoMapper;
-using AYMDating.Blazor.Data.DTO;
 using Exam2025.API.DTO;
 using Exam2025.API.Helpers;
 using Exam2025.BLL.Interfaces;
@@ -32,12 +31,12 @@ namespace Exam2025.API.Controllers
             //this.configuration = configuration;
         }
 
-        //[AllowAnonymous]
-        //[HttpGet("HelloWorld")]
-        //public string HelloWorld()
-        //{
-        //    return "Hello";
-        //}
+        [AllowAnonymous]
+        [HttpGet("HelloWorld")]
+        public string HelloWorld()
+        {
+            return "Hello World";
+        }
 
         [AllowAnonymous]
         [HttpPost("Login")]

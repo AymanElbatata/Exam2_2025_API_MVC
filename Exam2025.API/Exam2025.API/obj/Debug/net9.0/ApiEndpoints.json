@@ -21,6 +21,26 @@
   },
   {
     "ContainingType": "Exam2025.API.Controllers.AccountController",
+    "Method": "HelloWorld",
+    "RelativePath": "api47c302a9db0a484ba9a838ec6e79/Account/HelloWorld",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Exam2025.API.Controllers.AccountController",
     "Method": "Login",
     "RelativePath": "api47c302a9db0a484ba9a838ec6e79/Account/Login",
     "HttpMethod": "POST",
@@ -35,7 +55,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "AYMDating.Blazor.Data.DTO.ReturnValue_GenericDTO\u00601[[Exam2025.API.DTO.UserDTO, Exam2025.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "Exam2025.API.DTO.ReturnValue_GenericDTO\u00601[[Exam2025.API.DTO.UserDTO, Exam2025.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -81,7 +101,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "AYMDating.Blazor.Data.DTO.ReturnValue_GenericDTO\u00601[[Exam2025.API.DTO.RegisterDTO, Exam2025.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "Exam2025.API.DTO.ReturnValue_GenericDTO\u00601[[Exam2025.API.DTO.RegisterDTO, Exam2025.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -101,7 +121,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "AYMDating.Blazor.Data.DTO.ReturnValue_GenericDTO\u00601[[Exam2025.API.Models.ExamTBLViewModel, Exam2025.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "Exam2025.API.DTO.ReturnValue_GenericDTO\u00601[[Exam2025.API.Models.ExamTBLViewModel, Exam2025.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -153,7 +173,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "AYMDating.Blazor.Data.DTO.ReturnValue_GenericDTO\u00601[[Exam2025.API.Models.TakeExamModel, Exam2025.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "Exam2025.API.DTO.ReturnValue_GenericDTO\u00601[[Exam2025.API.Models.TakeExamModel, Exam2025.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -173,7 +193,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "AYMDating.Blazor.Data.DTO.ReturnValue_GenericDTO\u00601[[Exam2025.API.Models.UserExamTBLViewModel, Exam2025.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "Exam2025.API.DTO.ReturnValue_GenericDTO\u00601[[Exam2025.API.Models.UserExamTBLViewModel, Exam2025.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",

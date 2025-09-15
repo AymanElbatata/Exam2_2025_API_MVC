@@ -16,7 +16,7 @@ namespace Exam2025.API
 
             // Add services to the container.
 
-            builder.Services.AddControllers();
+            //builder.Services.AddControllers();
 
             builder.Services.AddDbContext<ExamDbContext>(options =>
             {
@@ -86,7 +86,7 @@ namespace Exam2025.API
             SeedInitialData.SeedData(app);
 
             app.UseHttpsRedirection();
-
+            //app.UsePathBase("/MyApis");
             app.UseRouting();
 
             app.UseCors("CorsPolicy");

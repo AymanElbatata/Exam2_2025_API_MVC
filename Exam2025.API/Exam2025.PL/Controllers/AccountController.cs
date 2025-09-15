@@ -1,5 +1,5 @@
-﻿using AYMDating.Blazor.Data.DTO;
-using Exam2025.API.DTO;
+﻿using Exam2025.API.DTO;
+using Exam2025.API.Helpers;
 using Exam2025.BLL.Interfaces;
 using Exam2025.BLL.Repositories;
 using Exam2025.DAL.BaseEntity;
@@ -19,12 +19,16 @@ namespace Exam2025.PL.Controllers
     {
         private readonly HttpClient _httpClient;
         private readonly IConfiguration _configuration;
+        private readonly IHttpContextAccessor _httpContextAccessor;
 
-        public AccountController(HttpClient httpClient, IConfiguration configuration)
+        public AccountController(HttpClient httpClient, IConfiguration configuration, IHttpContextAccessor httpContextAccessor)
         {
             _httpClient = httpClient;
             _configuration = configuration;
+            _httpContextAccessor = httpContextAccessor;
+
             _httpClient.BaseAddress = new Uri(_configuration["APISettings:BaseApiUrl"]);
+            //_httpClient.BaseAddress = new Uri(new AppSettingsHelper(_configuration, _httpContextAccessor).GetBaseUrl());
         }
 
         #region Login
@@ -35,6 +39,7 @@ namespace Exam2025.PL.Controllers
             {
                 ViewBag.Message = Message;
             }
+            //ViewBag.URLAPI = _httpClient.BaseAddress;
             return View();
         }
 
@@ -84,6 +89,14 @@ namespace Exam2025.PL.Controllers
                         ModelState.AddModelError("", responseContent?.message);
                     }
                 }
+                else
+                {
+                    ModelState.AddModelError("", "Api doesn't reply");
+                }
+            }
+            else
+            {
+                ModelState.AddModelError("", "Model is not valid");
             }
             return View(model);
         }

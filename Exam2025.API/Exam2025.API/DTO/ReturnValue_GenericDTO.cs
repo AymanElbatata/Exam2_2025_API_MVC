@@ -1,7 +1,8 @@
 ﻿using Exam2025.API.DTO;
+using System.Collections.Generic;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
-namespace AYMDating.Blazor.Data.DTO
+namespace Exam2025.API.DTO
 {
     public class ReturnValue_GenericDTO<T> where T : new()
     {

@@ -46,6 +46,7 @@ namespace Exam2025.API.Helpers
             services.AddScoped<IAppErrorTBLRepository, AppErrorTBLRepository>();
             //services.AddSingleton<IUpdatedCurrentUserPackage, UpdatedCurrentUserPackage>();
             //services.AddSingleton<IHostedService, UpdatedCurrentUserPackage>();
+            services.AddSingleton<AppSettingsHelper>();
 
             return services;
         }

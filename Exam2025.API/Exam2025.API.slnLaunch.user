@@ -10,7 +10,7 @@
       {
         "Path": "Exam2025.PL\\Exam2025.PL.csproj",
         "Action": "Start",
-        "DebugTarget": "https"
+        "DebugTarget": "http"
       }
     ]
   }
