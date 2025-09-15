@@ -1,0 +1,80 @@
+﻿@using System.Security.Claims
+@{
+    string userId = User.Claims.FirstOrDefault(c => c.Type == "UserId")?.Value;
+    string role = User.Claims.FirstOrDefault(c => c.Type == ClaimTypes.Role)?.Value;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Exam2025.PL</title>
+    <script type="importmap"></script>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Exam2025.PL.styles.css" asp-append-version="true" />
+</head>
+<body class="d-flex flex-column min-vh-100">
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg shadow-sm">
+        <div class="container">
+            <a class="navbar-brand fw-bold" asp-controller="Home" asp-action="Index">
+                <i class="bi bi-journal-check me-2"></i>Exam2
+            </a>
+            <button class="navbar-toggler bg-light" type="button" data-bs-toggle="collapse" data-bs-target="#mainNavbar">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="mainNavbar">
+                <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+@*                     <li class="nav-item"><a class="nav-link" asp-controller="Home" asp-action="Index">Home</a></li>
+ *@                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">Account</a>
+                        <ul class="dropdown-menu dropdown-menu-end bg-dark">
+                            @if(userId != null)
+                            {
+                              if(role =="Admin")
+                              {
+                                  <li><a class="dropdown-item text-white" asp-area="" asp-controller="Admin" asp-action="Index">Panel</a></li>
+                              }
+                             else if(role =="User")
+                             {
+                                 <li><a class="dropdown-item text-white" asp-area="" asp-controller="User" asp-action="Index">Results</a></li>
+                                 <li><a class="dropdown-item text-white" asp-area="" asp-controller="Exams" asp-action="Index">Exams</a></li>
+                             }
+                            <li><a class="dropdown-item text-danger" asp-controller="Account" asp-action="Logout">Logout</a></li>
+                            }
+                            else{
+                            <li><a class="dropdown-item text-white" asp-area="" asp-controller="Account" asp-action="Login">Sign In</a></li>
+                            <li><a class="dropdown-item text-white" asp-area="" asp-controller="Account" asp-action="Register">Register</a></li>
+                            }
+                            <li><hr class="dropdown-divider bg-secondary" /></li>
+                        </ul>
+                    </li>
+                </ul>
+@*                 <a class="btn btn-custom ms-3" asp-controller="Exam" asp-action="Start">Start Exam</a>
+ *@            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="flex-grow-1 py-5">
+        <div class="container">
+            @RenderBody()
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="text-center py-3 mt-auto">
+        <div class="container">
+            <p class="mb-1">&copy; @DateTime.Now.Year - Exam2</p>
+            <small>Made with ❤ for Online Exams</small>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

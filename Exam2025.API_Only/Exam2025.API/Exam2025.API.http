@@ -1,0 +1,26 @@
+@Exam2025.API_HostAddress = http://localhost:5015
+
+GET {{Exam2025.API_HostAddress}}/api47c302a9db0a484ba9a838ec6e79/Account/HelloWorld
+Accept: application/json
+
+### Login (POST with JSON model)
+POST http://localhost:5015/api47c302a9db0a484ba9a838ec6e79/Account/Login
+Content-Type: application/json
+Accept: application/json
+{
+  "Email": "Ayman_Elbatata@outlook.com",
+  "password": "Aym@9841"
+}
+
+### Get Current User Data
+POST {{Exam2025.API_HostAddress}}/api47c302a9db0a484ba9a838ec6e79/Account/GetCurrentUserData
+Content-Type: application/json
+Accept: application/json
+{}
+
+### Signout Current User
+POST {{Exam2025.API_HostAddress}}/api47c302a9db0a484ba9a838ec6e79/Account/Logout
+Content-Type: application/json
+Accept: application/json
+{}
+

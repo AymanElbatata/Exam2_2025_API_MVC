@@ -1,0 +1,76 @@
+﻿@model Exam2025.PL.DTO.LoginDTO
+
+@{
+    ViewData["Title"] = "Login";
+}
+<main class="d-flex align-items-center min-vh-100 bg-dark text-white">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-5 col-md-7">
+
+                <div class="card shadow-lg rounded-4 border-0 bg-white text-dark">
+                    <div class="card-body p-5">
+
+                        <h2 class="text-center mb-4 fw-bold text-dark">Welcome Back</h2>
+                        <p class="text-center text-muted mb-4">Sign in to continue to your account</p>
+
+                        @if (ViewBag.Message != null)
+                        {
+                            <div class="alert alert-success text-center">@ViewBag.Message</div>
+                        }
+
+                        <form asp-action="Login" asp-controller="Account" method="post">
+                            @Html.AntiForgeryToken()
+                            @Html.ValidationSummary(true, "", new { @class = "alert alert-danger" })
+
+                            <div class="form-floating mb-3">
+                                <input id="email" asp-for="Email" class="form-control"
+                                       value="ayman_elbatata@outlook.com" placeholder="Email address" required>
+                                <label asp-for="Email">Email address</label>
+                                @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+                                <small>
+                                    <a href="#" id="changeEmail" class="text-decoration-none text-bg-warning">Use Admin</a>
+                                </small>
+                            </div>
+
+                            <div class="form-floating mb-3">
+                                <input asp-for="Password" value="Aym@9841"
+                                       class="form-control" type="password" placeholder="Password" required>
+                                <label asp-for="Password">Password</label>
+                                @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                            </div>
+
+                            <div class="d-flex align-items-center mb-3">
+                                <input asp-for="RememberMe" class="form-check-input me-2" checked />
+                                <label class="form-check-label">@Html.DisplayNameFor(model => model.RememberMe)</label>
+                            </div>
+
+                            <button type="submit" class="btn w-100 py-2 rounded-pill"
+                                    style="background-color: #FFD700; color: #000; font-weight: bold;">
+                                Sign In
+                            </button>
+
+                            <div class="text-center mt-3">
+                                <a asp-controller="Account" asp-action="Register" class="text-decoration-none text-warning">
+                                    Don’t have an account? <strong>Register now!</strong>
+                                </a>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</main>
+
+<script>
+    document.getElementById("changeEmail").addEventListener("click", function (e) {
+        e.preventDefault();
+        if(document.getElementById("email").value == "ayman_elbatata@outlook.com")
+        document.getElementById("email").value = "Ayman.Fathy.Elbatata@gmail.com";
+        else
+        document.getElementById("email").value = "ayman_elbatata@outlook.com";
+
+    });
+</script>
