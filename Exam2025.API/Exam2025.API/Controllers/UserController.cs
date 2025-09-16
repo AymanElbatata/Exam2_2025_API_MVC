@@ -29,7 +29,7 @@ namespace Exam2025.API.Controllers
                 var Model = unitOfWork.UserExamTBLRepository.GetAllCustomized(
                     filter: a => a.IsDeleted == false && a.IsFinished == true && a.CreatedUserID == User.FindFirstValue(ClaimTypes.NameIdentifier),
                     includes: ue => ue.ExamTBL);
-                return Ok(new ReturnValue_GenericDTO<UserExamTBLViewModel>() { type = ReturnType.Success.ToString(), message = "", list = mapper.Map<IEnumerable<UserExamTBLViewModel>>(Model) });
+                return Ok(new ReturnValue_GenericDTO<UserExamTBLViewModel>() { type = ReturnType.Success.ToString(), message = "", list = mapper.Map<List<UserExamTBLViewModel>>(Model) });
             }
             catch (Exception ex)
             {

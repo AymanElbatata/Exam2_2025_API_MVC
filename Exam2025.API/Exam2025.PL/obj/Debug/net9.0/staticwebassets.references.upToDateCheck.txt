@@ -1,2 +1,0 @@
-D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.API\obj\Debug\net9.0\staticwebassets.build.json
-D:\AYM Programming\Prog&Files\Exam2025.API\Exam2025.API\obj\Debug\net9.0\staticwebassets.build.json
