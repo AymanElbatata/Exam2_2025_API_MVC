@@ -8,7 +8,7 @@ namespace AYMDating.Blazor.Data.DTO
         public string type { get; set; } = null!;
         public string message { get; set; } = null!;
         public T data { get; set; } = new T();
-        public IEnumerable<T> list { get; set; } = null;
+        public List<T> list { get; set; } = new List<T>();
 
     }
 }
